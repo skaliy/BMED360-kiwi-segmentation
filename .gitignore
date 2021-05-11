@@ -65,6 +65,9 @@ db.sqlite3-journal
 instance/
 .webassets-cache
 
+
+#fastai stuff: 
+models/
 # Scrapy stuff:
 .scrapy
 
